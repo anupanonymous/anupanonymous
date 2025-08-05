@@ -1,5 +1,8 @@
 Name: Anup Chapagain
 🎓 Background: BSc (Hons) Computing Systems | AI & IoT Enthusiast | Filmmaking | Creative | Music Production
+
+
+
 🚀 Interests: AI, Computer Vision, IoT Automation, Creative Applications, Producing Films, Music, Sound Design
 
 <!---
