@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @anupanonymous
-- 👀 I’m interested in Web, App & Software...
-- 🌱 I’m currently learning BSc Hons Computing Systems...
-
+Name: Anup Chapagain
+🎓 Background: BSc (Hons) Computing Systems | AI & IoT Enthusiast | Filmmaking | Creative | Music Production
+🚀 Interests: AI, Computer Vision, IoT Automation, Creative Applications, Producing Films, Music, Sound Design
 
 <!---
 anupanonymous/anupanonymous is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
